@@ -1,4 +1,13 @@
-<h1 align="center">👋 Hi, I'm <b>Mohamed Saeed</b></h1>
+<h1 align="center" style="
+    font-size: 3.5rem; 
+    font-weight: 700; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #0078D7; 
+    text-shadow: 1px 1px 3px rgba(0, 120, 215, 0.5);
+    margin-bottom: 0.3em;
+">
+  👋 Hi, I'm <b style="color:#004A9F;">Mohamed Saeed</b>
+</h1>
 <h3 align="center" style="color:#6c757d;">Backend .NET Developer | Software Engineer</h3>
 
 <p align="center">
@@ -26,6 +35,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" alt="ASP.NET Core" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
