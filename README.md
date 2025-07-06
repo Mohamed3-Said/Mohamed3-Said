@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Uak5U6Z.png" alt="Mohamed Saeed Banner" width="700" />
-</p>
-
 <h3 align="center">Software Engineer | .NET Developer | Backend Developer</h3>
 
 <!-- horizontal divider -->
@@ -82,24 +77,13 @@
   <a href="https://www.linkedin.com/in/mohamed-saeed3/" target="blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://www.facebook.com/share/15uQX6CS3a/?mibextid=wwXIfr" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234983016-27046caa-41c0-4686-a8b2-7c4c7f95e348.png" alt="facebook" height="50" width="50" />
+  <a href="https://www.facebook.com/mohamed3.said" target="blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="facebook" height="50" width="50" />
   </a>
   <a href="https://www.instagram.com/mohamed3_said?igsh=ZXJlMnl5aGMzamgy" target="blank">
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
 </p>
-
-<!-- Profile visit count -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mohamed3-Said&icon=3&color=6" />
-  </a>
-</div>
-
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!-- Profile visit count -->
 <div align="center">
