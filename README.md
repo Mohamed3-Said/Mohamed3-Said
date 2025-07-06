@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Uak5U6Z.png" alt="Mohamed Saeed Banner" width="700" />
+</p>
+
 <h3 align="center">Software Engineer | .NET Developer | Backend Developer</h3>
 
 <!-- horizontal divider -->
@@ -84,6 +89,17 @@
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
 </p>
+
+<!-- Profile visit count -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Mohamed3-Said&icon=3&color=6" />
+  </a>
+</div>
+
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Profile visit count -->
 <div align="center">
