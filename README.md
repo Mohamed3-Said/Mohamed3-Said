@@ -1,54 +1,95 @@
-<!-- ===============  HERO SECTION  =============== -->
-<h1 align="center">I'm Mohamed Saeed</h1>
-<h3 align="center">Software Engineer&nbsp;|&nbsp;.NET Developer&nbsp;|&nbsp;Backend</h3>
+<!-- ────────────────────────────  TOP DIVIDER  ──────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<p align="center">
-  <strong>Follow&nbsp;to&nbsp;get&nbsp;New&nbsp;Updates</strong>
-</p>
+<!-- ────────────────────────────  HERO SECTION  ──────────────────────────── -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display:inline-block">Hi 👋, I'm Mohamed Saeed</h1></summary>
+  </ul>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed3Said&label=Profile%20views&color=8e44ff&style=flat-square" />
-</p>
-
-<!-- ===============  CONNECT WITH ME  =============== -->
-### 📮 Connect with Me
+<!-- Snake animation -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-saeed3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
+
+<!-- Motto / Quote -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display:inline-block">Backend Engineering is where the real magic happens 🚀</h2></summary>
+  </ul>
+</div>
+
+<!-- ────────────────────────────  INTRO  ──────────────────────────── -->
+- 👨‍💻 Fourth‑year **Computer Science** student @ Modern Academy, Maadi (grad 2026)  
+- 🛠️ Currently building with **ASP.NET Core**, **EF Core**, **SQL Server** on **Onion Architecture**  
+- 📚 Learning **Redis**, **Docker**, and advanced Clean Architecture patterns  
+- 🎯 Focus areas: **API Design**, **Database Optimization**, **Secure Auth**  
+- 📫 Reach me anytime at **mohamed.said.33480@gmail.com**
+
+<!-- ────────────────────────  STATS & TROPHIES  ───────────────────────── -->
+<p align="center">
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3-Said&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed3-Said&theme=dark&hide_border=false" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed3-Said&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Mohamed3-Said&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</div>
+</p>
+
+<!-- ────────────────────────  TECH STACK  ───────────────────────── -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display:inline-block">Technologies I Work With 🛠️</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <!-- skillicons.dev icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,dotnet,postman,html,css,git,docker&perline=9" />
+  <!-- custom SQL Server icon to match others -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="50" alt="SQL Server" />
+</p>
+
+<!-- ────────────────────────  CONNECT WITH ME  ───────────────────────── -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display:inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed3-said/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:mohamed.said.33480@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mohamed3-Said" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohamed3_said?igsh=ZXJlMnl5aGMzamgy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<!-- ────────────────────────  PROFILE VIEW COUNTER  ───────────────────── -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Mohamed3-Said&icon=3&color=6" />
   </a>
 </div>
 
-<!-- ===============  LANGUAGES & TOOLS  =============== -->
-### 🛠️ Languages & Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"   height="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg"        height="50" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"  height="50" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"        height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"      height="50" alt="HTML5"/>
-</div>
-
-<!-- ===============  TROPHIES  =============== -->
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed3Said&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=15" />
-</p>
-
-<!-- ===============  STATS  =============== -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed3Said&theme=dracula&hide_border=true&border_radius=5" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed3Said&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</p>
-
-<!-- ===============  FOOTER  =============== -->
-<p align="center">
-  <em>Made&nbsp;with&nbsp;❤️&nbsp;by&nbsp;Mohamed&nbsp;Saeed</em>
-</p>
+<!-- ───────────────────────────  BOTTOM DIVIDER  ───────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
