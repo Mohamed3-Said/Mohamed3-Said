@@ -59,7 +59,8 @@
   <!-- skillicons.dev icons -->
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,dotnet,postman,html,css,git,docker&perline=9" />
   <!-- custom SQL Server icon to match others -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="50" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" width="40" height="40" alt="SQL Server" style="margin: 4px;" />
+
 </p>
 
 <!-- ────────────────────────  CONNECT WITH ME  ───────────────────────── -->
