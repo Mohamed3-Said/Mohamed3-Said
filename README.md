@@ -1,14 +1,17 @@
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohamed Saeed</h1></summary>
+  </ul>
+</div>
+
 <h3 align="center">Software Engineer | .NET Developer | Backend Developer</h3>
 
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- h1 without bottom border -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohamed Saeed</h1></summary>
-  </ul>
-</div>
+
 
 <!-- snake animation -->
 <div align="center">
@@ -27,7 +30,7 @@
 - 💻 Passionate about backend development using .NET Core and SQL Server  
 - 🔁 I work with EF Core, Repository Pattern, Onion Architecture, REST APIs  
 - 🛠️ Tools: ASP.NET Core, EF Core, SQL Server, Postman, Git, Docker  
-- 📬 Reach me at **mohamed3.said99@gmail.com**  
+- 📬 Reach me at **mohamed.said.33480@gmail.com**  
 - 🌍 From Qanater Khayreya, Qalyubia  
 - 🤝 Open to internships, collaborations, and learning opportunities  
 
