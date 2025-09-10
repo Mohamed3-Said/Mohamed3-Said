@@ -5,7 +5,7 @@
   </ul>
 </div>
 
-<h3 align="center">Software Engineer | .NET Developer | Backend Developer</h3>
+<h3 align="center">Software Engineer | Backend .NET Developer</h3>
 
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
